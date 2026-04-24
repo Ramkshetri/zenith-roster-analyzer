@@ -5,7 +5,7 @@ export const metadata = {
   description: "AI-powered staff rostering for hospitality operations",
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <body className="antialiased">{children}</body>
