@@ -138,4 +138,4 @@ frontend/
 
 ## About
 
-Built by Ram Kshetri as a portfolio piece for a Junior AI Engineer application at Zenith Hotels Group. The problem space — manual staff rostering in hospitality — is one I've worked inside of directly, which shaped the product decisions here.
+Built by Sagar Aryal as a portfolio piece for a Junior AI Engineer application at Zenith Hotels Group. The problem space — manual staff rostering in hospitality — is one I've worked inside of directly, which shaped the product decisions here.
